@@ -10,7 +10,7 @@
 - [x] Criar funcionalidades em JS
 
 
-## ☕ Usando Marato Explorer
+## ☕ Usando Maratona Explorer
 
 Para usar Maratona Explorer, acesse o link:
 
