@@ -1,4 +1,4 @@
-# Maratona Explorer
+# Bola de cristal
 
 <img src="maratona.png" alt="exemplo imagem">
 
@@ -10,9 +10,9 @@
 - [x] Criar funcionalidades em JS
 
 
-## ☕ Usando Maratona Explorer
+## ☕ Usando a Bola de cristal
 
-Para usar Maratona Explorer, acesse o link:
+Para usar a bola de cristal, acesse o link:
 
 https://maratona-explorer.vercel.app/
 
